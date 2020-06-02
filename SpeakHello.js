@@ -27,4 +27,4 @@
 // 'helloSpeaker' on the global scope as well.
 // See Lecture 52, part 2
 // (Note, Step 6 will be done in the SpeakGoodBye.js file.)
-// xxxx.xxxx = helloSpeaker;
+// xxxx.xxxx = helloSpeaker
